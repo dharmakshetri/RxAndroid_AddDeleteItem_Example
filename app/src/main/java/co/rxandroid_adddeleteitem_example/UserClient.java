@@ -12,18 +12,22 @@ import java.util.List;
 public class UserClient {
     public static List<User> listUser= new ArrayList<>();
     private static UserClient instance;
+
+    //create singleton instance of UserClient
     public static UserClient getInstance(){
         if(instance==null){
             instance= new UserClient();
         }
         return instance;
     }
+    //add and get users
     public List<User> getUserList(@NonNull String name){
         User user= new User(name);
         listUser.add(user);
           return listUser;
 
     }
+    // delete user
     public void deleteUser(int position){
         listUser.remove(position);
     }
