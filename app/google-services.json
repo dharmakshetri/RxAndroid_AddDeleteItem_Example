@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "524868705323",
+    "firebase_url": "https://rxandroidadddelete.firebaseio.com",
+    "project_id": "rxandroidadddelete",
+    "storage_bucket": "rxandroidadddelete.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524868705323:android:d97ea2c5d3387308",
+        "android_client_info": {
+          "package_name": "co.rxandroid_adddeleteitem_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524868705323-gle4l17nv05tdr37q25gdg6sruf2t062.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWUv0cnWkzFA1dtUz2Ww4dMH7-mw1MS2g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
