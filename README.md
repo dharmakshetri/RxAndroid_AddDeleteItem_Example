@@ -1,6 +1,6 @@
-# RxAndroid_AddDeleteItem_Example
+#RxAndroid_AddDeleteItem_Example
 
-[RxAndroid[(https://github.com/ReactiveX/RxAndroid): Add and Delete Items on RecyclerListView in Android.
+[RxAndroid](https://github.com/ReactiveX/RxAndroid): Add and Delete Items on RecyclerListView in Android.
 
 ---
 Adding and Delete the list items on recycleview using RxAndroid.
