@@ -7,6 +7,7 @@ package co.rxandroid_adddeleteitem_example;
 public class User {
     public String name;
 
+    public User(){}
     public User(String n){
         this.name=n;
 
